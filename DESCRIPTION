@@ -17,8 +17,8 @@ Description: This is a private template for 'pkgdown' for use by UNHCR packages.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
-URL: https://github.com/unhcr-dataviz/unhcrtemplate
-BugReports: https://github.com/unhcr-dataviz/unhcrtemplate/issues
-RoxygenNote: 7.1.2
+URL: https://github.com/vidonne/unhcrtemplate
+BugReports: https://github.com/vidonne/unhcrtemplate/issues
 Imports:
     pkgdown (>= 2.0.1)
+Config/roxygen2/version: 8.1.0

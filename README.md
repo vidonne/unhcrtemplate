@@ -8,7 +8,7 @@
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![R-CMD-check](https://github.com/unhcr-dataviz/unhcrtemplate/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/unhcr-dataviz/unhcrtemplate/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/vidonne/unhcrtemplate/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/vidonne/unhcrtemplate/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 ## Overview
@@ -23,7 +23,7 @@ and [rotemplate](https://github.com/ropensci-org/rotemplate).
 
 For all sites, ensure that `DESCRIPTION` contains:
 
-    Config/Needs/website: unhcr-dataviz/unhcrtemplate
+    Config/Needs/website: vidonne/unhcrtemplate
 
 and that `_pkgdown.yml` contains:
 
